@@ -2,7 +2,6 @@
   position: relative;
   width: 46px;
   line-height: 1;
-  font-size:30px;
 }
 .logo .logo-status {
   position: absolute;
@@ -103,6 +102,7 @@ nav a:hover {
 .site-nav .site-logo {
   margin-top: 10px;
   transform: scale(0.64);
+  font-size:30px;
 }
 .site-nav .site-logo:hover {
   opacity: 0.76;
