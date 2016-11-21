@@ -94,6 +94,7 @@ nav a:hover {
 }
 .top-nav {
   background-color: white;
+  border-bottom:1px solid #ddd;
   box-shadow: 0 1px 0 rgba(100, 100, 100, 0.2);
 }
 .site-nav {
